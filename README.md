@@ -7,8 +7,8 @@ The risk of pneumonia is immense for many, especially in developing nations wher
 
 <br>
 # Environment and tools
-1)scikit-learn
-2)keras
-3)numpy
-4)pandas
-5)matplotlib
+#### 1)scikit-learn
+#### 2)keras
+#### 3)numpy
+#### 4)pandas
+#### 5)matplotlib
