@@ -3,9 +3,8 @@ Build an algorithm to automatically identify whether a patient is suffering from
 <br>
 # Environment and tools
 <br>
-#### 1)scikit-learn
-#### 2)keras
-#### 3)numpy
-#### 4)pandas
-#### 5)matplotlib
-
+1)scikit-learn
+2)keras
+3)numpy
+4)pandas
+5)matplotlib
